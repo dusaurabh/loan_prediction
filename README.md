@@ -11,6 +11,16 @@ This Repository contains Loan Prediction Model
 ### The test dataset is named as test_AV3.csv.
 #### Test dataset also have same features as train csv file.
 
+Software Required :-
+1. Anaconda
+2. Python(3.6 or higher)
+3. Jupyter Notebook
+
+Libraries Used :-
+1. Numpy
+2. Pandas
+3. Matplotlib
+
 #### I have used 4 Machine Learning Algorithms for this model. The 4 algorithms used are:-
 1. Support Vector Machines(SVM)
 2. Logistic Regression
@@ -18,3 +28,11 @@ This Repository contains Loan Prediction Model
 4. Decision Tree
 
 The 2 best algorithms which do best on this type of problem is Support Vector Machines and K Nearest Neighbour
+
+For Support Vector Machines the Classification Report is given below:-
+
+![](output/out_8.PNG)
+
+For K Nearest Neighbour the Classification is:-
+
+![](output/out_9.PNG)
